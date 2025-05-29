@@ -1,4 +1,4 @@
-# Search-Engine-Basic-#
+# Search-Engine-Basic-
 
 A basic search engine built from scratch in Java, implementing all core components including **crawling**, **indexing**, **ranking (using DFS)**, and **search history tracking**. The engine uses **MySQL** for backend data management and is designed as a portfolio project to demonstrate foundational concepts of search engines.
 
