@@ -11,17 +11,6 @@ A basic search engine built from scratch in Java, implementing all core componen
 - **Database Integration**: Uses **MySQL** to store crawled data, indexes, and user history.
 - **Console-Based UI**: Interact with the engine via a simple web interface
 
-## 📁 Project Structure
-
-search-engine-java/ ├── crawler/ 
-# Web crawler logic ├── indexer/  
-# Indexing module ├── ranker/   
-# DFS-based ranking algorithm ├── database/
-# MySQL connection and queries ├── history/   
-# Search history tracking ├── utils/
-# Helper functions ├── Main.java    
-# Entry point ├── README.md
-
 ## ⚙️ Technologies Used
 
 - **Java**
