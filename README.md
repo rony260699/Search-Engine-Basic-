@@ -28,5 +28,6 @@ Ranking: DFS is used to traverse linked pages and rank based on depth/relevance.
 
 History: Logs each search term and timestamp for user reference or analytics.
 ## Screenshots
-![Screenshot (78)](https://github.com/user-attachments/assets/20b925ba-279e-474f-acc7-1efa8eacfc81)
-![Screenshot (77)](https://github.com/user-attachments/assets/56919ae5-640f-4fc4-9c14-a414e6bc2afb)
+![Screenshot (80)](https://github.com/user-attachments/assets/0796f6de-b97d-4444-963c-306ca1052c10)
+![Screenshot (79)](https://github.com/user-attachments/assets/5a5066cf-5789-4b03-80ae-49aef18d4f5c)
+
